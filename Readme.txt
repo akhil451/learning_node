@@ -4,4 +4,4 @@
   1.3-- app3.js -- implement Js objects . Note : to print length of an object (assuming  named a ) , use Object.keys(a).length;
   1.4 App4.js -- Implemented prototypical inheritance ,function constructors . 
   1.5 -- App5.js-- immidiately invoked function expressions .
-  1.6 -- 
+  
